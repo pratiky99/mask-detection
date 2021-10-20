@@ -1,2 +1,2 @@
 # mask-detection
-mask detection using python
+ face mask detection using python
